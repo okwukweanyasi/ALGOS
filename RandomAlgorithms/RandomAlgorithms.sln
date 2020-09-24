@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPalindromeWord", "Chec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciSequence", "FibonacciSequence\FibonacciSequence.csproj", "{42EFD407-BACA-41BD-A204-DBFEBB2A0642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingNumber", "FindMissingNumber\FindMissingNumber.csproj", "{DB550798-061D-4DD4-8D22-02FB4A37EB56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMissingNumber", "FindMissingNumber\FindMissingNumber.csproj", "{DB550798-061D-4DD4-8D22-02FB4A37EB56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueAndStacks", "QueueAndStacks\QueueAndStacks.csproj", "{BB05B260-5913-4BAA-B306-63320B3CF9D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueAndStacks", "QueueAndStacks\QueueAndStacks.csproj", "{BB05B260-5913-4BAA-B306-63320B3CF9D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateNo", "FindDuplicateNo\FindDuplicateNo.csproj", "{F6689DDE-E9CC-49AC-AB66-379FF82E1DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIndDuplicateNumber", "FIndDuplicateNumber\FIndDuplicateNumber.csproj", "{4985BA80-3BF0-4266-8604-94F3B41B4C62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{BB05B260-5913-4BAA-B306-63320B3CF9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB05B260-5913-4BAA-B306-63320B3CF9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB05B260-5913-4BAA-B306-63320B3CF9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6689DDE-E9CC-49AC-AB66-379FF82E1DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6689DDE-E9CC-49AC-AB66-379FF82E1DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6689DDE-E9CC-49AC-AB66-379FF82E1DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6689DDE-E9CC-49AC-AB66-379FF82E1DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4985BA80-3BF0-4266-8604-94F3B41B4C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4985BA80-3BF0-4266-8604-94F3B41B4C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4985BA80-3BF0-4266-8604-94F3B41B4C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4985BA80-3BF0-4266-8604-94F3B41B4C62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
