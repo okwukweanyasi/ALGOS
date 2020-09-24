@@ -8,9 +8,8 @@ namespace FindDuplicateNo
         static void Main(string[] args)
         {
             int[] numbers = new int[] { 3, 7, 1,3, 2, 8, 4, 5,6 };
-            int[] numbers1 = new int[] { 3, 7, 1, 8, 2, 8, 4, 5, 6,8 };
+            int[] numbers1 = new int[] { 3, 7, 1, 8, 2, 4, 5, 6,8 };
             int[] numbers2 = new int[] { 6, 7, 11, 3, 24, 8, 11, 35, 6 };
-            int[] numbers3 = new int[] { 3, 7, 1, 3, 2, 8, 4, 5, 6 };
 
             int duplicateNo = DuplicateNo(numbers);
 
