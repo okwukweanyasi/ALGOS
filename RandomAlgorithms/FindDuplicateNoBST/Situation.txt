@@ -7,4 +7,4 @@ one number that appears twice.
 
 Write a function for finding the number that appears twice
 
-Solve this with binary Search tree insertions
+Solve this with maths functions(triangle series)

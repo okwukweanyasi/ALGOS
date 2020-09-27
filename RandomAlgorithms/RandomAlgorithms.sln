@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateNo", "FindDupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIndDuplicateNumber", "FIndDuplicateNumber\FIndDuplicateNumber.csproj", "{4985BA80-3BF0-4266-8604-94F3B41B4C62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateNoBST", "FindDuplicateNoBST\FindDuplicateNoBST.csproj", "{66764D9C-C6B7-4E50-A815-6165E48A13E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4985BA80-3BF0-4266-8604-94F3B41B4C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4985BA80-3BF0-4266-8604-94F3B41B4C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4985BA80-3BF0-4266-8604-94F3B41B4C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66764D9C-C6B7-4E50-A815-6165E48A13E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66764D9C-C6B7-4E50-A815-6165E48A13E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66764D9C-C6B7-4E50-A815-6165E48A13E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66764D9C-C6B7-4E50-A815-6165E48A13E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
