@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateNoBST", "FindD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST", "BST\BST.csproj", "{475B73F0-E647-45F5-B245-F6B91DD8BF71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoComplete", "AutoComplete\AutoComplete.csproj", "{F8D79AB6-B4F1-4C10-8696-BD62B9530463}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{475B73F0-E647-45F5-B245-F6B91DD8BF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{475B73F0-E647-45F5-B245-F6B91DD8BF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{475B73F0-E647-45F5-B245-F6B91DD8BF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D79AB6-B4F1-4C10-8696-BD62B9530463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D79AB6-B4F1-4C10-8696-BD62B9530463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D79AB6-B4F1-4C10-8696-BD62B9530463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D79AB6-B4F1-4C10-8696-BD62B9530463}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
