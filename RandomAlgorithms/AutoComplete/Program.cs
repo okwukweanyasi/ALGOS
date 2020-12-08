@@ -14,7 +14,7 @@ namespace AutoComplete
             string decision = Console.ReadLine();
             while (!(decision.ToLower() == "y" ||decision.ToLower() == "n"))
             {
-                Console.WriteLine("Do you want to search for a word? Press 'Y' to continue with search and 'N' to exit");
+                Console.WriteLine("Enter valid inputs. Do you want to search for a word? Press 'Y' to continue with search and 'N' to exit");
                 decision = Console.ReadLine();
 
             }
