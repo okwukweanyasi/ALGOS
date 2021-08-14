@@ -48,7 +48,7 @@ namespace FIndDuplicateNumber
             }
             catch
             {
-              return default;
+              return -6;
 
             }
         }
