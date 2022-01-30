@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomAlgorithms", "RandomAlgorithms\RandomAlgorithms.csproj", "{4F5F5EDB-DD60-4187-BB89-C6A445599C4D}"
 EndProject
@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMissingNumber", "FindMi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueAndStacks", "QueueAndStacks\QueueAndStacks.csproj", "{BB05B260-5913-4BAA-B306-63320B3CF9D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateNo", "FindDuplicateNo\FindDuplicateNo.csproj", "{F6689DDE-E9CC-49AC-AB66-379FF82E1DCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDuplicateNo", "FindDuplicateNo\FindDuplicateNo.csproj", "{F6689DDE-E9CC-49AC-AB66-379FF82E1DCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIndDuplicateNumber", "FIndDuplicateNumber\FIndDuplicateNumber.csproj", "{4985BA80-3BF0-4266-8604-94F3B41B4C62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FIndDuplicateNumber", "FIndDuplicateNumber\FIndDuplicateNumber.csproj", "{4985BA80-3BF0-4266-8604-94F3B41B4C62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateNoBST", "FindDuplicateNoBST\FindDuplicateNoBST.csproj", "{66764D9C-C6B7-4E50-A815-6165E48A13E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDuplicateNoBST", "FindDuplicateNoBST\FindDuplicateNoBST.csproj", "{66764D9C-C6B7-4E50-A815-6165E48A13E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST", "BST\BST.csproj", "{475B73F0-E647-45F5-B245-F6B91DD8BF71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BST", "BST\BST.csproj", "{475B73F0-E647-45F5-B245-F6B91DD8BF71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoComplete", "AutoComplete\AutoComplete.csproj", "{F8D79AB6-B4F1-4C10-8696-BD62B9530463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoComplete", "AutoComplete\AutoComplete.csproj", "{F8D79AB6-B4F1-4C10-8696-BD62B9530463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingNo", "FindMissingNo\FindMissingNo.csproj", "{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{F8D79AB6-B4F1-4C10-8696-BD62B9530463}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8D79AB6-B4F1-4C10-8696-BD62B9530463}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8D79AB6-B4F1-4C10-8696-BD62B9530463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
