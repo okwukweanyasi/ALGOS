@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BST", "BST\BST.csproj", "{4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoComplete", "AutoComplete\AutoComplete.csproj", "{F8D79AB6-B4F1-4C10-8696-BD62B9530463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingNo", "FindMissingNo\FindMissingNo.csproj", "{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMissingNo", "FindMissingNo\FindMissingNo.csproj", "{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{3E1BC901-3D7C-4EE1-8A05-64DE1D85E277}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89E7F4CD-81F5-49A3-82D2-CB6E52351B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1BC901-3D7C-4EE1-8A05-64DE1D85E277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1BC901-3D7C-4EE1-8A05-64DE1D85E277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1BC901-3D7C-4EE1-8A05-64DE1D85E277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1BC901-3D7C-4EE1-8A05-64DE1D85E277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
